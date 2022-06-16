@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "start": "./node_modules/.bin/browser-synic start --server --no-notify --files='index.html, *.css, *.js"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
